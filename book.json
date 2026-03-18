@@ -1,0 +1,90 @@
+{
+    "title": "PCI Express技术详解：从原理到Linux实现",
+    "description": "涵盖1.x/2.x/3.0三代规范，深度结合飞腾和RK3588平台实战",
+    "author": "MindShare, Inc. 原著 | 中文翻译版",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "theme-comscore",
+        "splitter",
+        "tbfed-pagefooter",
+        "expandable-chapters",
+        "anchor-navigation-ex",
+        "edit-link",
+        "prism",
+        "github-buttons",
+        "sharing-plus"
+    ],
+    "pluginsConfig": {
+        "theme-comscore": {
+            "primaryColor": "#2196F3",
+            "accentColor": "#FF4081"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy 2026",
+            "modify_label": "最后更新：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "edit-link": {
+            "base": "https://github.com/your-repo/pcie-technology/edit/master",
+            "label": "编辑本页"
+        },
+        "github-buttons": {
+            "buttons": [
+                {
+                    "user": "your-username",
+                    "repo": "pcie-technology",
+                    "type": "star",
+                    "size": "small",
+                    "count": true
+                }
+            ]
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-okaidia.css"
+            ],
+            "lang": {
+                "c": true,
+                "cpp": true,
+                "bash": true
+            }
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": true,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook", "twitter", "weibo", "qq"
+            ]
+        }
+    },
+    "links": {
+        "sidebar": {
+            "GitHub": "https://github.com/your-repo/pcie-technology",
+            "MindShare": "https://www.mindshare.com"
+        }
+    }
+}
