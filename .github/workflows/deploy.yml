@@ -1,4 +1,4 @@
-name: Build and Deploy GitBook
+name: Build and Deploy GitBook (Honkit)
 
 on:
   push:
@@ -23,19 +23,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '12'
+          node-version: '18'
 
-      - name: Install GitBook
+      - name: Install Honkit
         run: |
-          npm install -g gitbook-cli@2.3.2
+          npm install -g honkit
 
       - name: Install plugins
         run: |
-          gitbook install
+          honkit install
 
       - name: Build GitBook
         run: |
-          gitbook build
+          honkit build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
