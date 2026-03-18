@@ -93,6 +93,16 @@ dw_pcie_writel_dbi(pci, PCIE_LINK_WIDTH_SPEED_CONTROL,
 
 在训练过程中，TS1和TS2训练序列是有意义的。这些在Gen1或Gen2模式下的格式如图14-4所示，而在Gen3操作模式下，它们如图14-5所示。
 
+![L0状态](../images/img-089.jpg)
+
+*原文图示：L0状态*
+
+
+![Configuration状态](../images/img-088.jpg)
+
+*原文图示：Configuration状态*
+
+
 ### TS1和TS2有序集
 
 如图所示，TS1和TS2由16个符号组成。它们在LTSSM的轮询、配置和恢复状态下交换。
