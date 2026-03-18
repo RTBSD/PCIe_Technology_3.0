@@ -95,13 +95,7 @@ dw_pcie_writel_dbi(pci, PCIE_LINK_WIDTH_SPEED_CONTROL,
 
 ![L0状态](../images/图14-5.L0状态.jpg)
 
-*原文图示：L0状态*
-
-
 ![Configuration状态](../images/图14-4.Configuration状态.jpg)
-
-*原文图示：Configuration状态*
-
 
 ### TS1和TS2有序集
 
@@ -693,26 +687,21 @@ L2状态提供最大的电源节省，主电源被关闭。
 
 以下是本章相关的原文图片：
 
-
 ### 图14-1.LTSSM.jpg
 
 ![图14-1.LTSSM.jpg](../images/图14-1.LTSSM.jpg)
-
 
 ### 图14-2.Detect状态.jpg
 
 ![图14-2.Detect状态.jpg](../images/图14-2.Detect状态.jpg)
 
-
 ### 图14-3.Polling状态.jpg
 
 ![图14-3.Polling状态.jpg](../images/图14-3.Polling状态.jpg)
 
-
 ### 图14-4.Configuration状态.jpg
 
 ![图14-4.Configuration状态.jpg](../images/图14-4.Configuration状态.jpg)
-
 
 ### 图14-5.L0状态.jpg
 
