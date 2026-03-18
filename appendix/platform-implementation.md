@@ -553,3 +553,49 @@ BAR/MSI   时钟/训练  设备管理
 *文档创建日期: 2026-03-17*  
 *对应书籍: MindShare PCI Express Technology 3.0*  
 *参考内核: Phytium Linux Kernel*
+
+---
+
+## 附录图片
+
+本节提供PCIe技术相关的参考图表和实现示意图。
+
+### 图A-1 PCIe信号定义
+![图A-1 PCIe信号定义](../images/图A-1.PCIe信号定义.png)
+*PCIe信号定义图，展示各信号线的功能和定义*
+
+### 图A-2 引脚分配
+![图A-2 引脚分配](../images/图A-2.引脚分配.png)
+*PCIe连接器引脚分配图，详细标注各引脚功能*
+
+### 图A-3 连接器尺寸
+![图A-3 连接器尺寸](../images/图A-3.连接器尺寸.png)
+*PCIe连接器物理尺寸和机械规格*
+
+### 图A-4 时序参数
+![图A-4 时序参数](../images/图A-4.时序参数.png)
+*PCIe信号时序参数表，包含关键时序要求*
+
+### 图A-5 电气规范
+![图A-5 电气规范](../images/图A-5.电气规范.png)
+*PCIe电气特性规范，包括电压、电流和阻抗要求*
+
+### 图A-6 测试点
+![图A-6 测试点](../images/图A-6.测试点.png)
+*PCIe信号测试点位置和测试方法说明*
+
+### 图A-7 飞腾PCIe
+![图A-7 飞腾PCIe](../images/图A-7.飞腾PCIe.jpg)
+*飞腾PCIe EP控制器架构示意图*
+
+### 图A-8 RK3588 PHY
+![图A-8 RK3588 PHY](../images/图A-8.RK3588_PHY.jpg)
+*RK3588 PCIe PHY物理层实现框图*
+
+### 图A-9 Linux驱动
+![图A-9 Linux驱动](../images/图A-9.Linux驱动.jpg)
+*Linux PCIe驱动架构和软件栈示意图*
+
+### 图A-10 调试技巧
+![图A-10 调试技巧](../images/图A-10.调试技巧.jpg)
+*PCIe调试技巧和常见问题排查方法*
