@@ -735,3 +735,31 @@ UI = 单位间隔
 *翻译完成日期: 2026-03-17*
 *译者: AI Assistant*
 *术语表参考: /home/ai/dev/10-reference/pcie_translation/术语表.md*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-081.jpg
+
+![img-081.jpg](../images/img-081.jpg)
+
+
+### img-082.jpg
+
+![img-082.jpg](../images/img-082.jpg)
+
+
+### img-083.jpg
+
+![img-083.jpg](../images/img-083.jpg)
+
+
+### img-084.jpg
+
+![img-084.jpg](../images/img-084.jpg)
+

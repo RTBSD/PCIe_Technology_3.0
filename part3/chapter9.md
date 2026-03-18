@@ -513,3 +513,26 @@ $ cat /sys/kernel/debug/pcie/devices/<device>/status
 
 *翻译完成于2026年3月17日*
 *校验更新于2026年3月17日*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-065.jpg
+
+![img-065.jpg](../images/img-065.jpg)
+
+
+### img-066.jpg
+
+![img-066.jpg](../images/img-066.jpg)
+
+
+### img-067.jpg
+
+![img-067.jpg](../images/img-067.jpg)
+

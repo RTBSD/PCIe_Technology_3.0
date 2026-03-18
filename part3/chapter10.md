@@ -992,3 +992,26 @@ Ack/Nak协议是PCIe数据链路层的核心机制，确保TLP在链路上的可
 
 *翻译完成时间：2026-03-17*
 *译者：AI助手*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-068.jpg
+
+![img-068.jpg](../images/img-068.jpg)
+
+
+### img-069.jpg
+
+![img-069.jpg](../images/img-069.jpg)
+
+
+### img-070.jpg
+
+![img-070.jpg](../images/img-070.jpg)
+

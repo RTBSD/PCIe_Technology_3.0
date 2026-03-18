@@ -982,3 +982,100 @@ DLLP 源于发送器的数据链路层并被接收器的数据链路层消耗。
 **来源**: MindShare PCI Express Technology 3.0, Chapter 2: PCIe Architecture Overview
 
 **翻译日期**: 2026-03-17
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-021.jpg
+
+![img-021.jpg](../images/img-021.jpg)
+
+
+### img-022.jpg
+
+![img-022.jpg](../images/img-022.jpg)
+
+
+### img-023.jpg
+
+![img-023.jpg](../images/img-023.jpg)
+
+
+### img-024.png
+
+![img-024.png](../images/img-024.png)
+
+
+### img-025.png
+
+![img-025.png](../images/img-025.png)
+
+
+### img-026.jpg
+
+![img-026.jpg](../images/img-026.jpg)
+
+
+### img-027.png
+
+![img-027.png](../images/img-027.png)
+
+
+### img-028.png
+
+![img-028.png](../images/img-028.png)
+
+
+### img-029.png
+
+![img-029.png](../images/img-029.png)
+
+
+### img-030.png
+
+![img-030.png](../images/img-030.png)
+
+
+### img-031.png
+
+![img-031.png](../images/img-031.png)
+
+
+### img-032.png
+
+![img-032.png](../images/img-032.png)
+
+
+### img-033.png
+
+![img-033.png](../images/img-033.png)
+
+
+### img-034.png
+
+![img-034.png](../images/img-034.png)
+
+
+### img-035.png
+
+![img-035.png](../images/img-035.png)
+
+
+### img-036.jpg
+
+![img-036.jpg](../images/img-036.jpg)
+
+
+### img-037.png
+
+![img-037.png](../images/img-037.png)
+
+
+### img-038.jpg
+
+![img-038.jpg](../images/img-038.jpg)
+

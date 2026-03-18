@@ -750,3 +750,26 @@ Linux实现：
 *翻译来源: MindShare PCI Express Technology 3.0, Chapter 18: System Reset*
 *平台补充: Linux复位实现参考*
 *术语表参考: /home/ai/dev/10-reference/pcie_translation/术语表.md*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-099.png
+
+![img-099.png](../images/img-099.png)
+
+
+### img-100.png
+
+![img-100.png](../images/img-100.png)
+
+
+### img-101.png
+
+![img-101.png](../images/img-101.png)
+

@@ -613,3 +613,45 @@ static void quirk_disable_root_port_attributes(struct pci_dev *pdev)
 - Linux内核: drivers/pci/quirks.c
 
 | AT[1:0] (地址
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-049.png
+
+![img-049.png](../images/img-049.png)
+
+
+### img-050.png
+
+![img-050.png](../images/img-050.png)
+
+
+### img-051.png
+
+![img-051.png](../images/img-051.png)
+
+
+### img-052.png
+
+![img-052.png](../images/img-052.png)
+
+
+### img-053.jpg
+
+![img-053.jpg](../images/img-053.jpg)
+
+
+### img-054.jpg
+
+![img-054.jpg](../images/img-054.jpg)
+
+
+### img-055.jpg
+
+![img-055.jpg](../images/img-055.jpg)
+

@@ -797,3 +797,26 @@ int pci_enable_msix_range(struct pci_dev *dev, struct msix_entry *entries,
 *翻译完成于: 2026-03-17*
 *原文来源: MindShare PCI Express Technology 3.0, Chapter 17*
 *平台补充: 飞腾PCIe EP MSI实现参考*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-096.png
+
+![img-096.png](../images/img-096.png)
+
+
+### img-097.png
+
+![img-097.png](../images/img-097.png)
+
+
+### img-098.png
+
+![img-098.png](../images/img-098.png)
+

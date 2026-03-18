@@ -455,3 +455,35 @@ PCI Express在这些基础上进行了革命性改进：
 *第1章 背景 - 翻译完成*  
 *参考：[SKILL.md] PCIe术语规范*  
 *图片来源：原书第9-37页*
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-008.jpg
+
+![img-008.jpg](../images/img-008.jpg)
+
+
+### img-009.jpg
+
+![img-009.jpg](../images/img-009.jpg)
+
+
+### img-010.jpg
+
+![img-010.jpg](../images/img-010.jpg)
+
+
+### img-011.jpg
+
+![img-011.jpg](../images/img-011.jpg)
+
+
+### img-012.jpg
+
+![img-012.jpg](../images/img-012.jpg)
+

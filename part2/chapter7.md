@@ -554,3 +554,25 @@ RC具有与交换机相同的仲裁和时序要求。它在几个下游端口上
 
 - 《PCI Express Technology 3.0》第7章 "Quality of Service", pp.245-284
 - 术语表参考：/home/ai/dev/10-reference/pcie_translation/术语表.md
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-060.jpg
+
+![img-060.jpg](../images/img-060.jpg)
+
+
+### img-061.jpg
+
+![img-061.jpg](../images/img-061.jpg)
+
+
+### img-062.jpg
+
+![img-062.jpg](../images/img-062.jpg)
+

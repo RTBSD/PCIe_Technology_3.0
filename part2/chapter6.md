@@ -179,3 +179,31 @@
 
 ### 6.3.3 无限信用量
 
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-056.png
+
+![img-056.png](../images/img-056.png)
+
+
+### img-057.png
+
+![img-057.png](../images/img-057.png)
+
+
+### img-058.png
+
+![img-058.png](../images/img-058.png)
+
+
+### img-059.png
+
+![img-059.png](../images/img-059.png)
+

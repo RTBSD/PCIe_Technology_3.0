@@ -1247,3 +1247,36 @@ ep0: ep@0x29030000 {
 ---
 
 *本文档由AI翻译自《PCI Express Technology 3.0》第3章，并补充了飞腾平台实现参考，仅供学习参考。*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-039.jpg
+
+![img-039.jpg](../images/img-039.jpg)
+
+
+### img-040.jpg
+
+![img-040.jpg](../images/img-040.jpg)
+
+
+### img-041.png
+
+![img-041.png](../images/img-041.png)
+
+
+### img-042.png
+
+![img-042.png](../images/img-042.png)
+
+
+### img-043.png
+
+![img-043.png](../images/img-043.png)
+

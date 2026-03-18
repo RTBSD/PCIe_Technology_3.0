@@ -907,3 +907,36 @@ pcie_phy: pcie-phy {
 *翻译来源: MindShare PCI Express Technology 3.0, Chapter 11: Physical Layer - Logical (Gen1 and Gen2)*
 *平台补充: RK3588 PCIe PHY实现参考*
 *翻译日期: 2026-03-17*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-071.jpg
+
+![img-071.jpg](../images/img-071.jpg)
+
+
+### img-072.jpg
+
+![img-072.jpg](../images/img-072.jpg)
+
+
+### img-073.jpg
+
+![img-073.jpg](../images/img-073.jpg)
+
+
+### img-074.jpg
+
+![img-074.jpg](../images/img-074.jpg)
+
+
+### img-075.jpg
+
+![img-075.jpg](../images/img-075.jpg)
+

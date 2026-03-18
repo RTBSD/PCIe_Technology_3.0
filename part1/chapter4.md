@@ -862,3 +862,35 @@ static int phytium_pcie_ep_set_bar(struct pci_epc *epc, u8 fn,
 **翻译完成**
 
 *本翻译基于MindShare《PCI Express Technology 3.0》第4章内容，并补充了飞腾平台BAR实现参考，保留所有技术术语的准确性。*
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-044.png
+
+![img-044.png](../images/img-044.png)
+
+
+### img-045.jpg
+
+![img-045.jpg](../images/img-045.jpg)
+
+
+### img-046.jpg
+
+![img-046.jpg](../images/img-046.jpg)
+
+
+### img-047.jpg
+
+![img-047.jpg](../images/img-047.jpg)
+
+
+### img-048.jpg
+
+![img-048.jpg](../images/img-048.jpg)
+

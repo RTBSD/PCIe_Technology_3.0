@@ -1449,3 +1449,26 @@ Linux实现：
 
 *翻译来源: MindShare PCI Express Technology 3.0, Chapter 19*
 *平台补充: Linux热插拔实现参考*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-102.png
+
+![img-102.png](../images/img-102.png)
+
+
+### img-103.png
+
+![img-103.png](../images/img-103.png)
+
+
+### img-104.png
+
+![img-104.png](../images/img-104.png)
+

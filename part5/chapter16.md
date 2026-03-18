@@ -876,3 +876,26 @@ Linux实现：
 *翻译完成于 2026-03-17*
 *原文来源: MindShare PCI Express Technology 3.0, Chapter 16*
 *平台补充: Linux ASPM实现参考*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-093.png
+
+![img-093.png](../images/img-093.png)
+
+
+### img-094.png
+
+![img-094.png](../images/img-094.png)
+
+
+### img-095.png
+
+![img-095.png](../images/img-095.png)
+

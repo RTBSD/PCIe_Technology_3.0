@@ -508,3 +508,26 @@ static void aer_correctable_error(struct aer_err_info *info)
 *翻译完成于: 2026-03-17*
 *原文来源: MindShare PCI Express Technology 3.0, Chapter 15*
 *平台补充: Linux AER实现参考*
+
+
+---
+
+## 本章图片附录
+
+以下是本章相关的原文图片：
+
+
+### img-090.png
+
+![img-090.png](../images/img-090.png)
+
+
+### img-091.jpg
+
+![img-091.jpg](../images/img-091.jpg)
+
+
+### img-092.png
+
+![img-092.png](../images/img-092.png)
+
