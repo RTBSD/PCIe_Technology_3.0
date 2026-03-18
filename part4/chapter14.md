@@ -93,12 +93,12 @@ dw_pcie_writel_dbi(pci, PCIE_LINK_WIDTH_SPEED_CONTROL,
 
 在训练过程中，TS1和TS2训练序列是有意义的。这些在Gen1或Gen2模式下的格式如图14-4所示，而在Gen3操作模式下，它们如图14-5所示。
 
-![L0状态](../images/img-089.jpg)
+![L0状态](../images/图14-5.L0状态.jpg)
 
 *原文图示：L0状态*
 
 
-![Configuration状态](../images/img-088.jpg)
+![Configuration状态](../images/图14-4.Configuration状态.jpg)
 
 *原文图示：Configuration状态*
 
@@ -694,27 +694,27 @@ L2状态提供最大的电源节省，主电源被关闭。
 以下是本章相关的原文图片：
 
 
-### img-085.jpg
+### 图14-1.LTSSM.jpg
 
-![img-085.jpg](../images/img-085.jpg)
-
-
-### img-086.jpg
-
-![img-086.jpg](../images/img-086.jpg)
+![图14-1.LTSSM.jpg](../images/图14-1.LTSSM.jpg)
 
 
-### img-087.jpg
+### 图14-2.Detect状态.jpg
 
-![img-087.jpg](../images/img-087.jpg)
-
-
-### img-088.jpg
-
-![img-088.jpg](../images/img-088.jpg)
+![图14-2.Detect状态.jpg](../images/图14-2.Detect状态.jpg)
 
 
-### img-089.jpg
+### 图14-3.Polling状态.jpg
 
-![img-089.jpg](../images/img-089.jpg)
+![图14-3.Polling状态.jpg](../images/图14-3.Polling状态.jpg)
+
+
+### 图14-4.Configuration状态.jpg
+
+![图14-4.Configuration状态.jpg](../images/图14-4.Configuration状态.jpg)
+
+
+### 图14-5.L0状态.jpg
+
+![图14-5.L0状态.jpg](../images/图14-5.L0状态.jpg)
 

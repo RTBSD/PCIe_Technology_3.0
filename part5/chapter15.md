@@ -517,17 +517,17 @@ static void aer_correctable_error(struct aer_err_info *info)
 以下是本章相关的原文图片：
 
 
-### img-090.png
+### 图15-1.错误分类.png
 
-![img-090.png](../images/img-090.png)
-
-
-### img-091.jpg
-
-![img-091.jpg](../images/img-091.jpg)
+![图15-1.错误分类.png](../images/图15-1.错误分类.png)
 
 
-### img-092.png
+### 图15-2.错误检测.jpg
 
-![img-092.png](../images/img-092.png)
+![图15-2.错误检测.jpg](../images/图15-2.错误检测.jpg)
+
+
+### 图15-3.错误报告.png
+
+![图15-3.错误报告.png](../images/图15-3.错误报告.png)
 

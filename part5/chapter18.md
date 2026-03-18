@@ -57,7 +57,7 @@ PERST#信号馈送到主板上的所有PCI Express设备，包括连接器和图
 ```
 图18-1：PERST#生成示意图
 
-![复位类型](../images/img-099.png)
+![复位类型](../images/图18-1.复位类型.png)
 
 *原文图示：复位类型*
 
@@ -119,7 +119,7 @@ PERST#信号馈送到主板上的所有PCI Express设备，包括连接器和图
 ```
 图18-2：显示热复位位的TS1有序集
 
-![Fundamental Reset](../images/img-100.png)
+![Fundamental Reset](../images/图18-2.Fundamental_Reset.png)
 
 *原文图示：Fundamental Reset*
 
@@ -164,7 +164,7 @@ TS1有序集结构:
 ```
 图18-3：交换机在一个下行端口生成热复位
 
-![Hot Reset](../images/img-101.png)
+![Hot Reset](../images/图18-3.Hot_Reset.png)
 
 *原文图示：Hot Reset*
 
@@ -759,17 +759,17 @@ Linux实现：
 以下是本章相关的原文图片：
 
 
-### img-099.png
+### 图18-1.复位类型.png
 
-![img-099.png](../images/img-099.png)
-
-
-### img-100.png
-
-![img-100.png](../images/img-100.png)
+![图18-1.复位类型.png](../images/图18-1.复位类型.png)
 
 
-### img-101.png
+### 图18-2.Fundamental_Reset.png
 
-![img-101.png](../images/img-101.png)
+![图18-2.Fundamental_Reset.png](../images/图18-2.Fundamental_Reset.png)
+
+
+### 图18-3.Hot_Reset.png
+
+![图18-3.Hot_Reset.png](../images/图18-3.Hot_Reset.png)
 

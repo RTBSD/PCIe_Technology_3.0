@@ -62,7 +62,7 @@
 
 **图6-1：流量控制逻辑的位置**
 
-![流量控制概述](../images/img-056.png)
+![流量控制概述](../images/图6-1.流量控制概述.png)
 
 *原文图示：流量控制概述*
 
@@ -127,7 +127,7 @@
 
 **图6-2：流量控制缓冲区组织**
 
-![FC初始化](../images/img-057.png)
+![FC初始化](../images/图6-2.FC初始化.png)
 
 *原文图示：FC初始化*
 
@@ -188,22 +188,22 @@
 以下是本章相关的原文图片：
 
 
-### img-056.png
+### 图6-1.流量控制概述.png
 
-![img-056.png](../images/img-056.png)
-
-
-### img-057.png
-
-![img-057.png](../images/img-057.png)
+![图6-1.流量控制概述.png](../images/图6-1.流量控制概述.png)
 
 
-### img-058.png
+### 图6-2.FC初始化.png
 
-![img-058.png](../images/img-058.png)
+![图6-2.FC初始化.png](../images/图6-2.FC初始化.png)
 
 
-### img-059.png
+### 图6-3.FC更新.png
 
-![img-059.png](../images/img-059.png)
+![图6-3.FC更新.png](../images/图6-3.FC更新.png)
+
+
+### 图6-4.FC信用.png
+
+![图6-4.FC信用.png](../images/图6-4.FC信用.png)
 

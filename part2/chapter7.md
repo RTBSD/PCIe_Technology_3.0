@@ -25,7 +25,7 @@ PCIe通过以下基本元素实现QoS：
 
 **图7-2：TLP头中的流量类别字段**
 
-![VC仲裁](../images/img-061.jpg)
+![VC仲裁](../images/图7-2.VC仲裁.jpg)
 
 *原文图示：VC仲裁*
 
@@ -59,7 +59,7 @@ Byte 8-11: Address[31:2]
 
 **图7-3：TC到VC映射示例**
 
-![端口仲裁](../images/img-062.jpg)
+![端口仲裁](../images/图7-3.端口仲裁.jpg)
 
 *原文图示：端口仲裁*
 
@@ -162,7 +162,7 @@ VC资源          优先级顺序
 
 **图7-10：VC仲裁优先级**
 
-![TC和VC](../images/img-060.jpg)
+![TC和VC](../images/图7-1.TC和VC.jpg)
 
 *原文图示：TC和VC*
 
@@ -562,17 +562,17 @@ RC具有与交换机相同的仲裁和时序要求。它在几个下游端口上
 以下是本章相关的原文图片：
 
 
-### img-060.jpg
+### 图7-1.TC和VC.jpg
 
-![img-060.jpg](../images/img-060.jpg)
-
-
-### img-061.jpg
-
-![img-061.jpg](../images/img-061.jpg)
+![图7-1.TC和VC.jpg](../images/图7-1.TC和VC.jpg)
 
 
-### img-062.jpg
+### 图7-2.VC仲裁.jpg
 
-![img-062.jpg](../images/img-062.jpg)
+![图7-2.VC仲裁.jpg](../images/图7-2.VC仲裁.jpg)
+
+
+### 图7-3.端口仲裁.jpg
+
+![图7-3.端口仲裁.jpg](../images/图7-3.端口仲裁.jpg)
 

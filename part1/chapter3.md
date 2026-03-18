@@ -44,7 +44,7 @@ PCI兼容配置空间包括每个功能的256字节：
 
 **图3-2：PCI兼容配置寄存器空间**
 
-![Type 0配置请求](../images/img-040.jpg)
+![Type 0配置请求](../images/图3-2.Type0配置请求.jpg)
 
 *原文图示：Type 0配置请求*
 
@@ -106,7 +106,7 @@ Type 0头部（端点）              Type 1头部（桥接器）
 
 **图3-3：每个PCIe功能的4KB配置空间**
 
-![Type 1配置请求](../images/img-041.png)
+![Type 1配置请求](../images/图3-3.Type1配置请求.png)
 
 *原文图示：Type 1配置请求*
 
@@ -204,7 +204,7 @@ PCI兼容机制在根复合体的主机桥中使用两个32位IO端口：
 
 **图3-4：0CF8h处的配置地址端口**
 
-![配置空间布局](../images/img-042.png)
+![配置空间布局](../images/图3-4.配置空间布局.png)
 
 *原文图示：配置空间布局*
 
@@ -243,7 +243,7 @@ PCI兼容机制在根复合体的主机桥中使用两个32位IO端口：
 
 **图3-5：单根系统（Single-Root System）**
 
-![BAR配置](../images/img-043.png)
+![BAR配置](../images/图3-5.BAR配置.png)
 
 *原文图示：BAR配置*
 
@@ -578,7 +578,7 @@ mov ax,[E0400000h]   ; 内存映射配置读取
 
 系统复位或上电后，配置软件必须扫描PCIe fabric 以发现机器拓扑并了解 fabric 的填充情况。在此之前，如图3-10所示，软件唯一可以确定的是将有一个主机/PCI桥，并且总线号0将在该桥的次级侧。
 
-![配置空间访问](../images/img-039.jpg)
+![配置空间访问](../images/图3-1.配置空间访问.jpg)
 
 *原文图示：配置空间访问*
 
@@ -1256,27 +1256,27 @@ ep0: ep@0x29030000 {
 以下是本章相关的原文图片：
 
 
-### img-039.jpg
+### 图3-1.配置空间访问.jpg
 
-![img-039.jpg](../images/img-039.jpg)
-
-
-### img-040.jpg
-
-![img-040.jpg](../images/img-040.jpg)
+![图3-1.配置空间访问.jpg](../images/图3-1.配置空间访问.jpg)
 
 
-### img-041.png
+### 图3-2.Type0配置请求.jpg
 
-![img-041.png](../images/img-041.png)
-
-
-### img-042.png
-
-![img-042.png](../images/img-042.png)
+![图3-2.Type0配置请求.jpg](../images/图3-2.Type0配置请求.jpg)
 
 
-### img-043.png
+### 图3-3.Type1配置请求.png
 
-![img-043.png](../images/img-043.png)
+![图3-3.Type1配置请求.png](../images/图3-3.Type1配置请求.png)
+
+
+### 图3-4.配置空间布局.png
+
+![图3-4.配置空间布局.png](../images/图3-4.配置空间布局.png)
+
+
+### 图3-5.BAR配置.png
+
+![图3-5.BAR配置.png](../images/图3-5.BAR配置.png)
 

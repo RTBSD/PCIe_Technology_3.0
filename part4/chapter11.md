@@ -916,27 +916,27 @@ pcie_phy: pcie-phy {
 以下是本章相关的原文图片：
 
 
-### img-071.jpg
+### 图11-1.8b10b编码.jpg
 
-![img-071.jpg](../images/img-071.jpg)
-
-
-### img-072.jpg
-
-![img-072.jpg](../images/img-072.jpg)
+![图11-1.8b10b编码.jpg](../images/图11-1.8b10b编码.jpg)
 
 
-### img-073.jpg
+### 图11-2.加扰.jpg
 
-![img-073.jpg](../images/img-073.jpg)
-
-
-### img-074.jpg
-
-![img-074.jpg](../images/img-074.jpg)
+![图11-2.加扰.jpg](../images/图11-2.加扰.jpg)
 
 
-### img-075.jpg
+### 图11-3.有序集.jpg
 
-![img-075.jpg](../images/img-075.jpg)
+![图11-3.有序集.jpg](../images/图11-3.有序集.jpg)
+
+
+### 图11-4.训练序列.jpg
+
+![图11-4.训练序列.jpg](../images/图11-4.训练序列.jpg)
+
+
+### 图11-5.链路训练.jpg
+
+![图11-5.链路训练.jpg](../images/图11-5.链路训练.jpg)
 

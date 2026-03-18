@@ -71,7 +71,7 @@ Ack/Nak协议的核心思想很简单：
 
 [原文: 图10-2, 第319页]
 
-![Nak机制](../images/img-069.jpg)
+![Nak机制](../images/图10-2.Nak机制.jpg)
 
 *原文图示：Nak机制*
 
@@ -1001,17 +1001,17 @@ Ack/Nak协议是PCIe数据链路层的核心机制，确保TLP在链路上的可
 以下是本章相关的原文图片：
 
 
-### img-068.jpg
+### 图10-1.Ack机制.jpg
 
-![img-068.jpg](../images/img-068.jpg)
-
-
-### img-069.jpg
-
-![img-069.jpg](../images/img-069.jpg)
+![图10-1.Ack机制.jpg](../images/图10-1.Ack机制.jpg)
 
 
-### img-070.jpg
+### 图10-2.Nak机制.jpg
 
-![img-070.jpg](../images/img-070.jpg)
+![图10-2.Nak机制.jpg](../images/图10-2.Nak机制.jpg)
+
+
+### 图10-3.REPLAY.jpg
+
+![图10-3.REPLAY.jpg](../images/图10-3.REPLAY.jpg)
 
